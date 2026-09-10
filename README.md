@@ -1,2 +1,6 @@
 # emea-pay-settlement-authorization-gateway-fn
-payments-platform / critical / emea
+
+Team: **payments-platform**  
+Tier: **critical**  
+Region: **emea**  
+Synthetic demo repo for the Domo governance platform.
